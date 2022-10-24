@@ -8,7 +8,7 @@ namespace Wf_Devoir
 {
     public class DEpipe : MonDE
     {
-        public DEpipe():base("DE pipe")
+        public DEpipe():base("DE Pipe")
         {
 
         }
