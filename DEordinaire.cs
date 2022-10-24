@@ -8,7 +8,7 @@ namespace Wf_Devoir
 {
     public class DEordinaire : MonDE
     {
-        public DEordinaire() : base("DE ordinaire")
+        public DEordinaire() : base("DE Ordinaire")
         {
 
         }

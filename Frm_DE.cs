@@ -28,9 +28,7 @@ namespace Wf_Devoir
                 controleur.Brasser();
 
                 txt_DEcourant.Text = controleur.TypeDeDE;
-                
                 txt_valDEcourant.Text = controleur.ValeurActuelle.ToString();
-
                 txt_toatalPoints.Text = controleur.Total.ToString();
             
         }
